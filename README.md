@@ -1,5 +1,3 @@
-# Fibonacci sequence
-
 ## Running the program
 
 For running the C code, you just need to have a valid C/C++ compiler installed on your computer
